@@ -1,0 +1,12 @@
+bin/
+dev/
+etc/
+lib/
+opt/Wolfram/
+opt/minecraft-pi/
+proc/
+run/
+sbin/
+sys/
+usr/
+var/
