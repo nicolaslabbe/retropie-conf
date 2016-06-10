@@ -55,11 +55,13 @@
 # Enable audio (loads snd_bcm2835)
 dtparam=audio=on
 
-#max_usb_current=1
-#hdmi_group=2
-#hdmi_mode=1
-#hdmi_mode=87
-#hdmi_cvt 1024 600 60 6 0 0 0gpu_mem_256=128
+max_usb_current=1
+hdmi_group=2
+hdmi_mode=1
+hdmi_mode=87
+hdmi_cvt 1024 600 60 6 0 0 0gpu_mem_256=128
 gpu_mem_512=256
 gpu_mem_1024=256
 overscan_scale=1
+start_x=1
+gpu_mem=128
